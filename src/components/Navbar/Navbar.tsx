@@ -35,7 +35,7 @@ function Navbar() {
         )}
         <div className={navlinksvalue}>
           <a href="/">Home</a>
-          <a href="https://portfolio-steel-seven-84.vercel.app" target="_blank">
+          <a href="https://sohel-datta.vercel.app" target="_blank">
             Developer
           </a>
           <a>
